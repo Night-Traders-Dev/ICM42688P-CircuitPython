@@ -110,6 +110,3 @@ Contributions are welcome! If you find bugs or have suggestions for improvement,
 ## License
 This driver is provided under the MIT License. See the `LICENSE` file for details.
 
----
-
-This README provides all the necessary details for understanding, using, and extending the driver. Let me know if you'd like further adjustments!
